@@ -1,8 +1,28 @@
 # Changelog
 
-## 16.6.2 (2025-04-07)
+## 16.6.7 (2025-05-06)
 
-* [bitnami/postgresql] Release 16.6.2 ([#32842](https://github.com/bitnami/charts/pull/32842))
+* [bitnami/postgresql] Release 16.6.7 ([#33384](https://github.com/bitnami/charts/pull/33384))
+
+## <small>16.6.6 (2025-04-25)</small>
+
+* [bitnami/postgresql] fix(backup): mount secrets with password file (#33144) ([121d54e](https://github.com/bitnami/charts/commit/121d54ed2dae38cf311ef7a70287e20e7b68bd3e)), closes [#33144](https://github.com/bitnami/charts/issues/33144)
+
+## <small>16.6.5 (2025-04-24)</small>
+
+* [bitnami/postgresql] Release 16.6.5 (#33165) ([67bec6a](https://github.com/bitnami/charts/commit/67bec6a685cbec208524c7f67397e2a55549b187)), closes [#33165](https://github.com/bitnami/charts/issues/33165)
+
+## <small>16.6.4 (2025-04-23)</small>
+
+*  [bitnami/postgresql] Fix annotations not applied to passwordUpdateJob (#32969) ([307b38e](https://github.com/bitnami/charts/commit/307b38e8a536a10902ef3d667ef82396b737b94d)), closes [#32969](https://github.com/bitnami/charts/issues/32969)
+
+## <small>16.6.3 (2025-04-09)</small>
+
+* [bitnami/postgresql] Release 16.6.3 (#32915) ([ea17904](https://github.com/bitnami/charts/commit/ea1790406d0ec080c9eed3157402f702eb6c73a1)), closes [#32915](https://github.com/bitnami/charts/issues/32915)
+
+## <small>16.6.2 (2025-04-07)</small>
+
+* [bitnami/postgresql] Release 16.6.2 (#32842) ([9668041](https://github.com/bitnami/charts/commit/96680412e57a9beefcebc0d86be4e859fd393197)), closes [#32842](https://github.com/bitnami/charts/issues/32842)
 
 ## <small>16.6.1 (2025-04-07)</small>
 
